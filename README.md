@@ -1,6 +1,9 @@
 # MemoriseQieyun
 背《切韻》（其實是《廣韻》）音韻地位輔助工具
 
+
+ <img src="./demo.png" width = "300" alt="示意图" align=center />
+
 ## 都是偷的誰的
 
 ### 基本框架來自yihui
