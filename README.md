@@ -88,7 +88,7 @@ pyot
 《廣韻》：與弗同又府鳩方久二切
 ```
 
-圖省事用了代碼塊。拼音用的是一位大佬的中古拼音方案。
+拼音用的是一位大佬的中古拼音方案。
 大佬人在這：[biopolyhedron](https://github.com/biopolyhedron)
 
 這一拼音方案的維基介紹頁面：[用户:Polyhedron/中古汉语拼音 - 维基百科，自由的百科全书](https://zh.wikipedia.org/zh-cn/User:Polyhedron/%E4%B8%AD%E5%8F%A4%E6%BC%A2%E8%AA%9E%E6%8B%BC%E9%9F%B3)
@@ -104,3 +104,9 @@ btw，白、沙二字之間應該用dash而非hyphen，但是我隨便敲的且�
 又：應該是en dash對吧？有懂行的請教我。
 
 您瞧我這readme寫的，就醬。
+
+
+## 还没搞
+
+- [ ] 滚去学css
+- [ ] 滚回来把字体调大点，众所周知读书人都眼瞎
