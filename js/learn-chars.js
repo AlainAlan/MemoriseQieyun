@@ -160,7 +160,7 @@
       me += '<p class="py">' + k + '</p><ol><li>' + info[k].join('</li><li>') + '</li></ol>';
     };
     mn.innerHTML = me;
-    sc.innerHTML = '资料来源：汉典（<a href="https://www.zdic.net/hans/' + char + '" target="_blank">查看详情</a>）';
+    sc.innerHTML = '资料来源：nk2028（<a href="https://github.com/nk2028/qieyun-sqlite">查看详情</a>）';
   }
   function renderPinyin(char, zi, py, sep) {
     zi.innerText = char;
