@@ -136,4 +136,5 @@ btw，白、沙二字之間應該用dash而非hyphen，但是我隨便敲的且�
 - [ ] 滚去学css
 - [ ] 滚回来把字体调大点，众所周知读书人都眼瞎
 - [x] 適配移動端
-- [x] 2021-04-04心血来潮下载了[方正楷体](http://www.foundertype.com/index.php/FontInfo/index/id/137.html)，然后通过网页转换成了woff(2)格式，放在css文件夹下。（在Windows下）优先使用华康标楷（DFKai-SB），移动端会载入方正楷体（GBK）
+- [x] 2021-04-04心血来潮下载了[方正楷体](http://www.foundertype.com/index.php/FontInfo/index/id/137.html)，然后通过网页[在线转换](https://www.aconvert.com/cn/)成了woff(2)格式，放在css文件夹下。（在Windows下）优先使用华康标楷（DFKai-SB），移动端会载入方正楷体（GBK）
+- [x] 加注了《广韵》数据来源仓库，并后附了汉典的韵书页面链接
