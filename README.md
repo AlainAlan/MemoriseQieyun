@@ -28,7 +28,7 @@ btw，適配了移動端（操作主義地粘貼了一段不懂的html）。
 
 >  离线打包不难，麻烦的只是更新。要离线的话，就得把这些 JS 脚本和 CSS 下载下来；每次我更新之后你得再下载一遍。不求离线的话，这样一个 `.html` 文件就可以了：（代碼略）
 
-本項目css文件夾就是照搬的。index的offline版本依賴之。online版本則保持同步。
+本項目css文件夾就是照搬的。~~index的offline版本依賴之。online版本則保持同步。~~
 js下learn-chars.js也是照搬的。
 
 ### 字頻文件來自Chih-Hao Tsai
@@ -118,8 +118,6 @@ Rime：[RIME | 中州韻輸入法引擎](https://rime.im/)
 
 拼音方案終歸是拼音方案，所以加上了白一平的擬音。
 白—沙在這：[Baxter-Sagart Old Chinese reconstruction (Version 1.00, 20 Feb. 2011) | CRLAO, EHESS](http://lodel.ehess.fr/crlao/document.php?id=1217)
-btw，白、沙二字之間應該用dash而非hyphen，但是我隨便敲的且未加空格。
-又：應該是en dash對吧？有懂行的請教我。
 
 您瞧我這readme寫的，就醬。
 
