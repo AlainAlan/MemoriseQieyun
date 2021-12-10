@@ -160,7 +160,7 @@
       me += '<p class="py">' + k + '</p><ol><li>' + info[k].join('</li><li>') + '</li></ol>';
     };
     mn.innerHTML = me;
-    sc.innerHTML = '资料来源：<a href="https://github.com/nk2028/qieyun-sqlite">nk2028</a>；偷的代码：<a href:"https://github.com/yihui/zdict.js">yihui/zdict.js</a>；韻書：<a href="https://www.zdic.net/zd/yy/ys/' + char + '">汉典</a>';
+    sc.innerHTML = '资料来源：<a href="https://github.com/nk2028/qieyun-sqlite">nk2028</a>；偷的代码：<a href:"https://yihui.org/cn/kids/2021/02/chars/">中文识字</a>；韻書：<a href="https://www.zdic.net/zd/yy/ys/' + char + '">汉典</a>';
   }
   function renderPinyin(char, zi, py, sep) {
     zi.innerText = char;
